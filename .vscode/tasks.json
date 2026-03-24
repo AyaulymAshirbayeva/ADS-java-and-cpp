@@ -6,12 +6,12 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "Task1.cpp",
+                "${file}",
                 "-o",
-                "Task1"
+                "${fileBasenameNoExtension}"
             ],
             "options": {
-                "cwd": "/Applications/My assignment/cpp"
+                "cwd": "${fileDirname}"
             },
             "group": {
                 "kind": "build",
