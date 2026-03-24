@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "(lldb) Run",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/Applications/My assignment/cpp/Task1",
+            "args": [],
+            "cwd": "/Applications/My assignment/cpp",
+            "preLaunchTask": "build cpp",
+            "MIMode": "lldb",
+            "externalConsole": true
+        }
+    ]
+}
