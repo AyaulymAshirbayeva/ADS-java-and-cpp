@@ -10,6 +10,5 @@ public class Task2 {
         System.out.print("n: ");
         int n = sc.nextInt();
         numbers(n);
-        sc.close();
-    }
+        sc.close();}
 }
