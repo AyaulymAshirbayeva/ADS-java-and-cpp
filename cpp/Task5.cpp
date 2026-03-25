@@ -6,4 +6,9 @@ int power(int a, int b) {
 int main() {
     int a, b;
     cin >> a >> b;
-    cout << power(a, b);}
+    if (b < 0) {
+        cout << "b cannot be negative";
+    } else {
+        cout << power(a, b);
+    }}
+  
