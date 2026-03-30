@@ -8,3 +8,5 @@ int main() {
     int n;
     cin >> n;
     numbers(n);}
+
+//t.c and s.c: O(n)

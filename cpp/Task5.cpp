@@ -11,4 +11,6 @@ int main() {
     } else {
         cout << power(a, b);
     }}
+
+//t.c and s.c: O(b)
   

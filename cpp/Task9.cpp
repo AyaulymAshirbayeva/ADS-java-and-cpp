@@ -7,3 +7,6 @@ int main() {
     int n;
     cin >> n;
     cout << fib(n);}
+
+//t.c: O(2^n( exponetial
+//s.c: O(n)

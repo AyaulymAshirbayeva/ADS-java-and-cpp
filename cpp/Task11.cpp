@@ -9,3 +9,5 @@ int main() {
     int arr[n];
     for (int i = 0; i < n; i++) cin >> arr[i];
     cout << sumarray(arr, n);}
+
+////t.c and s.c: O(n)

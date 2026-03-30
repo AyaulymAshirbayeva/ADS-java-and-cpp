@@ -7,3 +7,5 @@ int main() {
     int n;
     cin >> n;
     cout << factorial(n);}
+
+//t.c and s.c: O(n)

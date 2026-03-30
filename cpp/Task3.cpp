@@ -7,3 +7,5 @@ int main() {
     int n;
     cin >> n;
     cout << sum(n);}
+
+//t.c and s.c: O(n)

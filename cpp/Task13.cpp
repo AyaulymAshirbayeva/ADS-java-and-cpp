@@ -12,3 +12,5 @@ int main() {
     cout<<"Target: ";
     cin >> target;
     cout << counttarget(arr, n, target);}
+
+//t.c and s.c: O(n)

@@ -11,3 +11,5 @@ int main() {
         cout << "Palindrome";
     else
         cout << "Not palindrome";}
+
+//t.c and s.c: O(n), n length of string

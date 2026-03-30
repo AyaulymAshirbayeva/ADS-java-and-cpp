@@ -21,3 +21,5 @@ int main() {
         cout << "Element found at index " << result;
     else
         cout << "Not found";}
+
+//t.c and s.c: O(log(n))

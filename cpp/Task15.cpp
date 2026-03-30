@@ -13,3 +13,5 @@ int main() {
         cout << "Sorted";
     else
         cout << "Not sorted";}
+
+//t.c and s.c: O(n)

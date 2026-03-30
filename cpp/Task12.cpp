@@ -10,3 +10,5 @@ int main() {
     for (int i = 0; i < n; i++) cin >> arr[i];
     cout << "Max element is ";
     cout << maxarray(arr, n);}
+
+////t.c and s.c: O(n)

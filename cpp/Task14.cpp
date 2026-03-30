@@ -16,3 +16,5 @@ int main() {
         cout << "Found";
     else
         cout << "Not found";}
+    
+//t.c and s.c: O(n)

@@ -7,3 +7,5 @@ int main() {
     int n;
     cin >> n;
     cout << countdigits(n);}
+
+//t.c and s.c: O(d), d number of digits(log10(n))

@@ -8,3 +8,5 @@ int main() {
     int n;
     cin >> n;
     reverse(n);}
+
+//t.c and s.c: O(d), d number of digits(log10(n))
